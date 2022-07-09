@@ -1,0 +1,13 @@
+---
+title: Maintenance Announcement 
+date: 2022-07-15 19:00:00 
+informational: true
+pin: true 
+affected:
+  - Game Panel
+  - EU01
+  - EU02
+section: issue
+---
+
+We are planning for a scheduled maintenance during that time.
