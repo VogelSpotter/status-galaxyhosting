@@ -13,4 +13,4 @@ affected:
   - EU02
 severity: notice
 ---
-We are planning for a scheduled maintenance on 07/19/2022 9:30 PM UTC+2
+We are planning for a scheduled maintenance on 07/19/2022 7:00 PM UTC+2
