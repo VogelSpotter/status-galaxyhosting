@@ -11,4 +11,8 @@ affected:
   - Front Website
 severity: down
 ---
+*Indentified -* The galaxyhosting.gg website is under a DDoS attack, in order to cease the attack, we have been forced to block the GalaxyHosting website with HaProxy. In order to make sure the attack stops, we will need to keep the restriction applied for at least 24 hours.
+
+
+
 *Investigating* - We are investigating a potential issue that might affect the uptime of one our of services. We are sorry for any inconvenience this may cause you. This incident post will be updated once we have more information.
