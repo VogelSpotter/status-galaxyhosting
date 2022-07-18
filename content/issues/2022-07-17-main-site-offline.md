@@ -5,7 +5,7 @@ date: 2022-07-17T06:23:25.261Z
 resolved: true
 draft: false
 informational: false
-pin: true
+pin: false
 resolvedWhen: 2022-07-17T13:21:25.273Z
 affected:
   - Front Website
