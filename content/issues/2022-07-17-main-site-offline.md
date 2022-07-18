@@ -6,7 +6,7 @@ resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2022-07-17T13:21:25.273Z
+resolvedWhen: 2022-07-18T14:20:04.751Z
 affected:
   - Front Website
 severity: down
