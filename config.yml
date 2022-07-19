@@ -75,6 +75,10 @@ params:
       closed: false
     - name: Europe
       description: Server status in Europe.
+      closed: false
+    - name: Canada
+      description: Server status in Canada
+      closed: false
     - name: US West Coast
       description: Server status in the West Coast.
       closed: true
@@ -83,9 +87,6 @@ params:
       closed: true
     - name: Australia
       description: Server status in Australia.
-      closed: true
-    - name: Canada
-      description: Server status in Canada
       closed: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
