@@ -54,6 +54,8 @@ params:
       category: Europe
     - name: EU02
       category: Europe
+    - name: CA01
+      category: Canada
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
