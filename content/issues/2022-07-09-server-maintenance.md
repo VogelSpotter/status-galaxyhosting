@@ -13,4 +13,8 @@ affected:
   - EU02
 severity: notice
 ---
+*Cancelled -* We cancelled this maintenance since our theme and addons weren't ready.
+
+
+
 We are planning for a scheduled maintenance on 07/19/2022 7:00 PM UTC+2
