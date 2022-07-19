@@ -2,10 +2,10 @@
 section: issue
 title: Server Maintenance
 date: 2022-07-19T17:00:07.219Z
-resolved: false
+resolved: true
 draft: false
 informational: true
-pin: true
+pin: false
 resolvedWhen: 2022-07-19T19:30:00.000Z
 affected:
   - Game Panel
