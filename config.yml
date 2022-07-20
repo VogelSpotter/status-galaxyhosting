@@ -56,6 +56,10 @@ params:
       category: Europe
     - name: CA01
       category: Canada
+    - name: EUBACKUP01
+      category: Backup Servers
+    - name: CABACKUP01
+      category: Backup Servers
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
